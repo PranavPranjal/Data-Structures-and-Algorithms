@@ -35,7 +35,7 @@ public class Main {
         myLinkedList2.append(23);
         myLinkedList2.append(7);
         myLinkedList2.append(5);
-        System.out.println(myLinkedList1.findMiddleNode());
+        myLinkedList2.printList();
 
 
 //        myLinkedList2.set(1,4);
